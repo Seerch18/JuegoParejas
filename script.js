@@ -20,7 +20,6 @@ window.addEventListener("load", function () {
         addCartasTabla();
         // desabilitar botón comenzar
         desabilitarBotonComenzar();
-        // empezar el tiempo de juego
 
     });
 });
