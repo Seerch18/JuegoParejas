@@ -1,0 +1,25 @@
+.tabla {
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.td-tabla {
+    border: 1px solid black;
+    width: 70px;
+    height: 90px;
+}
+
+.imgs-tabla {
+    width: 70px;
+    height: 90px;
+}
+
+#tablero {
+    text-align: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
